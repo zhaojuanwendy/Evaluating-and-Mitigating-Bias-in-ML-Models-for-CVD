@@ -1,5 +1,6 @@
 This is the source code of paper
 Evaluating and Mitigating Bias in Machine Learning Models for Cardiovascular Disease Prediction
+Manuscript at: https://pubmed.ncbi.nlm.nih.gov/36706849/
 
 
 The project explores several machine learning and deep learning models on features extracted from EHR for Cardiovascular disease prediction.
@@ -27,3 +28,5 @@ Models include:
 
 (6) ./src contains several python files that implement several models and cross validations
  
+** Please cite our paper if you use the code **:
+Li F, Wu P, Ong HH, Peterson JF, Wei WQ, Zhao J. Evaluating and mitigating bias in machine learning models for cardiovascular disease prediction. J Biomed Inform. 2023;138:104294. doi:10.1016/j.jbi.2023.104294
